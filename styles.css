@@ -1,0 +1,17 @@
+songs { 
+     color: white; 
+     background-color : #ff0000; 
+     width: 100%; 
+} 
+heading { 
+     color: green; 
+     font-size : 40px; 
+     background-color : #ffff00; 
+} 
+ heading, title, artists, artist, genre, year { 
+     display : block; 
+} 
+title { 
+     font-size : 25px; 
+     font-weight : bold; 
+} 
