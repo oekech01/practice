@@ -1,12 +1,13 @@
 songs { 
-     color: white; 
-     background-color : #ff0000; 
+     color: #040F3D; 
+     background-color : #C6C4C5; 
      width: 100%; 
+     text-align: center;
 } 
 heading { 
-     color: green; 
+     color: #040F3D; 
      font-size : 40px; 
-     background-color : #ffff00; 
+     background-color : #4BFFA5; 
 } 
  heading, title, artists, artist, genre, year { 
      display : block; 
