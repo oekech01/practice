@@ -2,42 +2,43 @@
 <?xml-stylesheet type="text/css" href="styles.css"?> 
 <songs> 
     <heading>Set List for Band </heading> 
-    <song> 
+    <song>
+        <title>Juxe Box Hero</title>
         <artist>
             <artist>Mick Jones</artist>
             <artist>Ian McDonald</artist>
             <artist>Lou Graham</artist>
         </artist> 
-        <title>Juxe Box Hero</title> 
         <genre>Rock</genre> 
         <year>1981</year> 
     </song> 
 
-    <song> 
+    <song>
+        <title>Stir way to heaven</title>  
         <artists>
             <artist>Robert Plant</artist>
             <artist>Jimmy Page</artist>
             <artist>John Paul Jones</artist>
             <artist>John Bonham</artist>
         </artists>
-        <title>Stir way to heaven</title> 
         <genre>Hard rock</genre> 
         <year>1971</year> 
     </song>
 
     <song> 
+        <title>Act Naturally</title> 
         <artists>
             <artist>Ringo Starr</artist>
             <artist>Paul McCartney</artist>
             <artist>John Lennon</artist>
             <artist>George Harrison</artist>
         </artists>
-        <title>Act Naturally</title> 
         <genre>Country Rock</genre> 
         <year>1965</year> 
     </song>
 
-    <song> 
+    <song>
+        <title>IDOL</title>  
         <artists>
             <artist>RM</artist>
             <artist>Jin</artist>
@@ -47,12 +48,12 @@
             <artist>V</artist>
             <artist>Jungkook</artist>
         </artists>
-        <title>IDOL</title> 
         <genre>K-pop</genre> 
         <year>2018</year> 
     </song>
 
-    <song> 
+    <song>
+        <title>What makes you beautiful</title>  
         <artists>
             <artist>Nial Horan</artist>
             <artist>Liam Payne</artist>
@@ -60,26 +61,26 @@
             <artist>Louis Tomlinson</artist>
             <artist>Zayn Malik</artist>
         </artists>
-        <title>What makes you beautiful</title> 
         <genre>Pop</genre> 
         <year>2011</year> 
     </song>
 
     <song> 
         <artists>
+        <title>Larger Than Life</title> 
             <artist>AJ McLean</artist>
             <artist>Nick Carter</artist>
             <artist>Kevin Richardson</artist>
             <artist>Brian Littrell</artist>
             <artist>Howie Dorough</artist>
         </artists>
-        <title>Larger Than Life</title> 
         <genre>Pop Rock</genre> 
         <year>1999</year> 
     </song>
 
     <song> 
         <artists>
+        <title>Gimme Shelter</title> 
             <artist>Brian Stones</artist>
             <artist>Ian Stewart</artist>
             <artist>Mick Jagger</artist>
@@ -87,43 +88,42 @@
             <artist>Bill Wyman</artist>
             <artist>Charlie Watts</artist>
         </artists>
-        <title>Gimme Shelter</title> 
         <genre>Classic Rock</genre> 
         <year>1969</year> 
     </song>
 
-    <song> 
+    <song>
+        <title>Nothing Else Matters</title> 
         <artists>
             <artist>James Hetfield</artist>
             <artist>Kars Ulriech</artist>
             <artist>Kirk Hammett</artist>
             <artist>Dave Mustaine</artist>
         </artists>
-        <title>Nothing Else Matters</title> 
         <genre>Rock</genre> 
         <year>1991</year> 
     </song>
 
     <song> 
+        <title>Yellow Submarine</title> 
         <artists>
             <artist>Ringo Starr</artist>
             <artist>Paul McCartney</artist>
             <artist>John Lennon</artist>
             <artist>George Harrison</artist>
         </artists>
-        <title>Yellow Submarine</title> 
         <genre>Rock</genre> 
         <year>1966</year> 
     </song>
 
-    <song> 
+    <song>
+        <title>Another Brick in the Wall</title>
         <artists>
             <artist>David Gilmour</artist>
             <artist>Roger Waters</artist>
             <artist>Richard Wright</artist>
             <artist>Nick Mason</artist>
-        </artists>
-        <title>Another Brick in the Wall</title> 
+        </artists> 
         <genre>Classic Rock</genre> 
         <year>1979</year> 
     </song>
